@@ -1,3 +1,5 @@
+### 시간 초과라 다시 풀어야함 
+
 def solution(A,B):
     answer = 0
     lst = []
